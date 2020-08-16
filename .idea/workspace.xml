@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="693fc546-b528-461c-897b-71696fa40ea7" name="Default Changelist" comment="Updated endpoint to heroku">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chat/Chat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chat/Chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InfoBar/InfoBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InfoBar/InfoBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Input/Input.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Input/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Join/Join.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Join/Join.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Messages/Message/Message.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Messages/Message/Message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Messages/Messages.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Messages/Messages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TextContainer/TextContainer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TextContainer/TextContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/closeIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/onlineIcon.png" afterDir="false" />
+    <list default="true" id="693fc546-b528-461c-897b-71696fa40ea7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chat/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chat/Chat.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,22 +64,41 @@
       <updated>1597319967662</updated>
       <workItem from="1597319969074" duration="3510000" />
       <workItem from="1597390966171" duration="620000" />
-      <workItem from="1597578489097" duration="1795000" />
+      <workItem from="1597578489097" duration="2654000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated endpoint to heroku">
+      <created>1597581486752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597581486752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated endpoint to heroku" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated endpoint to heroku" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="28" key="CommitChangelistDialog2" timestamp="1597581345818">
+    <state x="693" y="52" key="CommitChangelistDialog2" timestamp="1597582409475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="28" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597581345818" />
+    <state x="693" y="52" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597582409475" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597321846074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -132,6 +123,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597581258080" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1597581639787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597581639787" />
     <state x="647" y="236" width="626" height="568" key="find.popup" timestamp="1597321513547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
