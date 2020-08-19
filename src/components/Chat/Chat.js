@@ -42,6 +42,7 @@ const Chat = ({ location }) => {
     socket.on("roomData", ({ users }) => {
       setUsers(users);
     });
+
 }, []);
 
   const sendMessage = (event) => {
@@ -49,7 +50,9 @@ const Chat = ({ location }) => {
 
     if(message) {
       socket.emit('sendMessage', message, () => setMessage(''));
+      //socket.emit('sendAdmin', message, () => setMessage(''));
     }
+
   };
 
   return (

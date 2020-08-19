@@ -8,6 +8,10 @@ import './Messages.css';
 
 const Messages = ({ messages, name }) => (
   <ScrollToBottom className="messages">
+    <script>
+        console.log("test");
+      console.log(messages);
+    </script>
     {messages.map((message, i) => <div key={i}><Message message={message} name={name}/></div>)}
   </ScrollToBottom>
 );
